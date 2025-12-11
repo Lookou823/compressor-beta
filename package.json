@@ -1,7 +1,7 @@
 {
   "name": "compressor-beta",
-  "version": "2.0.0-beta.1",
-  "description": "Compressor.js Beta版本 - JavaScript图片压缩库的测试版本，用于新功能开发和测试",
+  "version": "1.0.0",
+  "description": "Compressor-beta: Enhanced fork of compressorjs with Web Worker support and additional optimizations. JavaScript image compressor library.",
   "main": "dist/compressor.common.js",
   "module": "dist/compressor.esm.js",
   "browser": "dist/compressor.js",
@@ -32,14 +32,14 @@
     "image",
     "compress",
     "compressor",
-    "compressor.js",
+    "compressor-beta",
     "image-compressor",
     "lossy-compression",
     "javascript",
     "front-end",
     "web",
-    "beta",
-    "experimental"
+    "web-worker",
+    "enhanced"
   ],
   "author": {
     "name": "Lookou823",
